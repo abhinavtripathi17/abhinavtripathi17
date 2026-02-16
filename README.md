@@ -1,24 +1,44 @@
 <h1 align="center">Hi, I'm Abhinav Tripathi 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer+In+The+Making;Node.js+%26+Express+Enthusiast;CS+Student+%40+3rd+Year;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer+in+the+Making;Node.js+%26+Express+Enthusiast;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-tripathi-926664281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/abhinavtripathi17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:abhinavtripathi4721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abhinav-tripathi-926664281">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/abhinavtripathi17">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:abhinavtripathi4721@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a **3rd-year Computer Science student** dedicated to mastering the art of backend architecture. I enjoy bridging the gap between complex logic and seamless user experiences.
+I am a **3rd-year Computer Science student** passionate about **backend development and problem solving**.  
+I enjoy designing efficient systems, writing clean APIs, and strengthening my fundamentals through competitive programming.
 
-- 🔭 **Current Focus:** Deep-diving into Node.js, Express, and MongoDB.
-- 🏗️ **Projects:** Building scalable REST APIs and management systems like **DormSolve**.
-- ⚡ **Interests:** System Design, API Optimization, and Database Management.
-- 📚 **Learning:** Advanced Backend patterns and Microservices.
+- 🔭 **Current Focus:** Node.js, Express, MongoDB, Backend fundamentals  
+- 🏗️ **Projects:** Building scalable REST APIs & management systems (e.g. **DormSolve**)  
+- ⚡ **Interests:** Backend Architecture, API Design, Databases, System Thinking  
+- 📚 **Learning:** Advanced backend patterns & SQL  
+
+---
+
+## 🎯 Highlights & Achievements
+
+- 🏆 **Problem Solving:** Solved **700+ DSA problems** across **LeetCode, CodeChef, Codeforces, and GFG**
+- 📊 **Competitive Programming:**
+  - ⭐ **CodeChef Rating:** **1450+**
+  - ⚡ **Codeforces Rating:** **950+**
+- 🔁 **Consistency:** Maintained long-term coding discipline with regular practice & contests
+- 🌳 **Strong Fundamentals:** Arrays, Binary Search, Recursion, Trees (BST), Heaps, Stacks & Queues
+- ⚙️ **Backend Development:** Hands-on experience with **Node.js & Express**, building RESTful APIs
+- 🚀 **Growth-Oriented:** Continuously improving via contests, debugging, and real-world projects
 
 ---
 
@@ -33,18 +53,18 @@ I am a **3rd-year Computer Science student** dedicated to mastering the art of b
 
 ---
 
-## 🔗 Featured Projects
+## 🔗 Featured Project
 
-### 🏫 [DormSolve — Campus Complaint Management System](https://github.com/abhinavtripathi17/DormSolve)
-> A full-stack solution to streamline hostel grievances.
+### 🏫 DormSolve — Campus Complaint Management System
+🔗 https://github.com/abhinavtripathi17/DormSolve
 
-- **Logic:** Engineered a robust administrative dashboard to manage real-time complaints.
-- **API:** Developed secure RESTful endpoints using **Express.js**.
-- **Impact:** Simplifies communication between students and administration.
+- Designed and implemented **RESTful APIs** using **Express.js**
+- Built backend logic for complaint tracking & admin workflows
+- Improved communication efficiency between students and administration
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtripathi17&theme=radical&hide_border=true" />
@@ -52,34 +72,7 @@ I am a **3rd-year Computer Science student** dedicated to mastering the art of b
 
 ---
 
-## 🎯 Highlights & Achievements
-
-- 🏆 **Problem Solving:** Solved **700+ DSA problems** across multiple global platforms.
-- 🔁 **Consistency & Discipline:** Maintained long-term coding consistency through regular problem-solving and contests.
-- 🌳 **Strong Fundamentals:** Proficient in **Arrays, Binary Search, Recursion, Trees (BST), Heaps, Stacks, and Queues**.
-- ⚙️ **Backend Development:** Actively learning **Node.js & Express**, building RESTful APIs and understanding backend workflows.
-- 🚀 **Growth-Oriented:** Continuously improving through contests, debugging, and structured learning.
-  
----
-## 📊 Technical Metrics
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtripathi17&theme=radical&hide_border=true" />
-</p>
-
-| Competitive Platform | Rating / Milestone |
-| :--- | :--- |
-| **CodeChef** | ⭐ **1450+** |
-| **Codeforces** | ⚡ **950+** |
-| **Total Problems** | **700+ Solved** |
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinavtripathi17&show_icons=true&theme=radical&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavtripathi17&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i> <br>
-  <b>Let's connect!</b>
+  <i>"The best way to predict the future is to build it."</i><br/>
+  <b>Let’s connect and build something meaningful.</b>
 </p>
