@@ -3,13 +3,13 @@
 <h3 align="center">Backend Developer | Node.js & Express Learner | CS Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/abhinav-tripathi-926664281">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/abhinavtripathi17">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:abhinavtripathi4721@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd year Computer Science student  
+- 🎓 3rd year Computer Science student  
 - 🧠 Actively learning **Backend Development**
 - 🚀 Building real-world projects with **Node.js & Express**
 - 🔧 Strong interest in APIs, system design, and backend logic
@@ -53,12 +53,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavtripathi17&show_icons=true&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavtripathi17&layout=compact&theme=dark" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinav-tripathi-926664281  
+- 📧 Email: abhinavtripathi4721@gmail.com  
 
 ---
 
