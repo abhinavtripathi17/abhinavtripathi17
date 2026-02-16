@@ -11,18 +11,18 @@
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
 I am a **3rd-year Computer Science student** dedicated to mastering the art of backend architecture. I enjoy bridging the gap between complex logic and seamless user experiences.
 
 - 🔭 **Current Focus:** Deep-diving into Node.js, Express, and MongoDB.
-- 🏗️ **Building:** Scalable REST APIs and management systems like **DormSolve**.
-- ⚡ **Interest:** System Design, API Optimization, and Database Management.
+- 🏗️ **Projects:** Building scalable REST APIs and management systems like **DormSolve**.
+- ⚡ **Interests:** System Design, API Optimization, and Database Management.
 - 📚 **Learning:** Advanced Backend patterns and Microservices.
 
 ---
 
-### 🛠️ My Toolbox
+## 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -33,18 +33,18 @@ I am a **3rd-year Computer Science student** dedicated to mastering the art of b
 
 ---
 
-### 🏗️ Featured Project
+## 🔗 Featured Projects
 
-#### 🏫 [DormSolve — Campus Complaint Management System](https://github.com/abhinavtripathi17/DormSolve)
+### 🏫 [DormSolve — Campus Complaint Management System](https://github.com/abhinavtripathi17/DormSolve)
 > A full-stack solution to streamline hostel grievances.
 
-* **Logic:** Engineered a robust administrative dashboard to manage real-time complaints.
-* **API:** Developed secure RESTful endpoints using **Express.js**.
-* **Impact:** Simplifies communication between students and administration.
+- **Logic:** Engineered a robust administrative dashboard to manage real-time complaints.
+- **API:** Developed secure RESTful endpoints using **Express.js**.
+- **Impact:** Simplifies communication between students and administration.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinavtripathi17&show_icons=true&theme=radical&hide_border=true" />
